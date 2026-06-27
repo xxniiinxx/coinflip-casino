@@ -1,12 +1,13 @@
 # Coinflip-Casino
 
-A full-stack, peer-to-peer **coinflip betting game** on Solana. Players connect a wallet, create or join on-chain game rooms, and compete head-to-head for **2× the stake**. The UI updates in real time over WebSockets, outcomes are resolved on-chain with **Orao VRF**, and the backend tracks rooms, chat, and match history in MongoDB.
+> **A full-stack, peer-to-peer coinflip betting game on Solana** — A full-stack, peer-to-peer coinflip betting game on Solana. Players connect a wallet, create or join on-chain game rooms, and compete head-to-head for 2× the stake. The UI updates in real time over WebSockets, outcomes are resolved on-chain with Orao VRF, and the backend tracks rooms, chat, and match history in MongoDB. 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Solana-Devnet-9945FF?style=flat&logo=solana&logoColor=white" alt="Solana" />
   <img src="https://img.shields.io/badge/Anchor-0.26-000?style=flat" alt="Anchor" />
   <img src="https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-TypeScript-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" />
 </p>
 
 ---
